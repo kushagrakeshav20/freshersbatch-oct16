@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-Assignments is based on css 
-Created new file of css
+
+Assignments is based on java
+Created new file of java
 add some css file
-=======
-Assignments is based on css
->>>>>>> cSS-assignments

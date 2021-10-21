@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Assignments is based on css 
 Created new file of css
 add some css file
+=======
+Assignments is based on css
+>>>>>>> cSS-assignments
